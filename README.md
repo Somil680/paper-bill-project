@@ -1,2 +1,2 @@
 # paper-bill-project
-this is vaypar clone
+this is vyapar clone
